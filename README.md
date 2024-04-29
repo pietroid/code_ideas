@@ -1,1 +1,3 @@
-# code_ideas
+# Code Ideas
+
+Funny ideas with code worth documenting
